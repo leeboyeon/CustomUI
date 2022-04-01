@@ -2,4 +2,4 @@
 
 ## result
 
-![](CustomCalendar/app/src/main/res/drawable/result.png)
+![RESULT](CustomCalendar/app/src/main/res/drawable/result.png)
